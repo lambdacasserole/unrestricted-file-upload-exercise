@@ -1,0 +1,5 @@
+# Composer dependencies
+vendor
+
+# Composer PHAR
+composer.phar

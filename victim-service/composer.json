@@ -1,0 +1,16 @@
+{
+    "name": "lambdacasserole/unrestricted-file-upload-exercise",
+    "description": "A deliberately vulnerable web application exhibiting an unrestricted file upload vulnerability.",
+    "type": "project",
+    "require": {
+        "mustangostang/spyc": "^0.6.3",
+        "intervention/image": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saul Johnson",
+            "email": "saul.a.johnson@gmail.com"
+        }
+    ]
+}
