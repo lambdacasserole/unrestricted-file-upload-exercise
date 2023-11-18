@@ -28,7 +28,7 @@ Or, if you already have Composer installed:
 composer install
 ```
 
-Now, configure Apache to separately serve (under different subdomains, for exmaple) the two folders under the root of this project (`/attacker-service` and `/victim-service`). Alternatively, to run the project locally, ensure that PHP 7.0+ is installed and run the following from either of the aforementioned folders:
+Now, configure Apache to separately serve (under different subdomains, for example) the two folders under the root of this project (`/attacker-service` and `/victim-service`). Alternatively, to run the project locally, ensure that PHP 7.0+ is installed and run the following from either of the aforementioned folders:
 
 ```bash
 php -S localhost:8080
