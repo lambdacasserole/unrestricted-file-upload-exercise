@@ -13,7 +13,8 @@ I use this as part of a practical activity in my seminars on cybersecurity for b
 
 ## Setup
 
-**Do not deploy this intentionally vulnerable web application on any webserver unless you don't mind destroying it.**
+> [!CAUTION]
+> Do not deploy this intentionally vulnerable web application on any webserver unless you don't mind destroying it.
 
 This project is designed to run on a LAMP stack. 
 
