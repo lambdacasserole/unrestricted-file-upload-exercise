@@ -2,6 +2,7 @@
 
 This repository contains a deliberately vulnerable web application exhibiting an unrestricted file upload vulnerability.
 
+> [!WARNING]
 > Use these materials sensibly and legally please. Using any of the techniques discussed here against any website when you have not been granted explicit permission (in writing!) to do so is a serious criminal offence that will get you in trouble very quickly.
 
 ## Purpose
